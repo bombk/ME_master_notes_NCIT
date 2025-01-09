@@ -1,0 +1,52 @@
+Role of Artificial Intelligence in the Internet of Things (IoT) cybersecurity
+Data Science and its Relationship to Big Data and Data-Driven Decision Making
+Supervised machine learning algorithms: classification and comparison
+Automating CI/CD Pipelines with Machine Learning Algorithms: Optimizing Build and Deployment Processes in DevOps Ecosystems
+Integrated Method of Deep Learning and Large Language Model in Speech Recognition
+International Journal of Artificial Intelligence and Machine Learning in
+Engineering 432|p
+Research the Use of Machine Learning Models to Predict and Prevent Failures in CI/CD
+Pipelines and Infrastructure
+Improving CI/CD Pipelines with MLOps-Oriented Automation for
+Machine Learning Models
+
+
+AI-Enhanced Continuous Integration and Continuous Deployment Pipelines: Leveraging Machine Learning Models for Predictive Failure Detection, Automated Rollbacks, and Adaptive Deployment Strategies in Agile Software Development
+
+Johnson, Alice. "Improving CI/CD Pipelines with MLOps-Oriented Automation for Machine Learning Models." Journal of AI-Assisted Scientific Discovery 4, no. 2 (2024): 100-106.
+
+
+Machine learning models for intrusion detection.Decision trees and rule-learning techniques for identifying anomalies.Artificial neural networks for adaptive threat detection.
+
+
+This research aims to explore the integration
+method of deep learning and large language models in speech
+recognition to improve the system’s recognition accuracy and
+ability to handle complex contexts.
+
+
+This research paper explores the integration method of deep learning and large language models in speech recognition,and analyzes in detail how various technologies work together to improve the accuracy and efficiency of speech recognition systems. By integrating deep neural networks(DNN), convolutional neural networks (CNN), long short-term memory networks (LSTM), and large language modelssuch as Transformer, BERT, and GPT, this studydemonstrates that these technologies can effectively handlecomplex contexts and improve Recognition accuracy.
+
+
+
+Traditional speech recognition systems often struggle with complex contexts, accent variability, and background noise. Despite advancements in deep learning and LLMs, a cohesive integration of these technologies to fully utilize their respective strengths for improving system performance remains an unresolved challenge.
+
+
+
+Implementing AI-driven anomaly detection models and reinforcement learning techniques to detect deviations and trigger rollbacks without manual intervention.
+
+
+Utilizing real-time monitoring of key performance indicators (KPIs) like latency and error rates, combined with reinforcement learning and anomaly detection, to adjust deployment processes dynamically.
+
+Developed an LLM-HMM hybrid system that combines LLMs for acoustic signal feature extraction with HMM for state transition modeling.
+Incorporated CNN to enhance local feature capturing and DNN for posterior probability estimation.
+Used TIMIT, LibriSpeech, and Common Voice datasets for evaluation, representing various accents, noise conditions, and languages.
+
+
+
+Despite its growing popularity, data science is often misunderstood or oversimplified, leading to challenges in its practical application. Organizations struggle to fully leverage data due to the complexities of managing Big Data and integrating insights into decision-making processes. This research addresses the gap in understanding the fundamental principles of data science and its application in optimizing decision-making through Big Data.
+
+
+Examine real-world examples like walmart where data science and Big Data have been successfully integrated to enhance decision-making.
+
+For data science to grow as a field and not get overwhelmed by the current hype, we need to focus on more than just the popular algorithms, tools, and methods. We must understand the key principles and concepts that support these techniques, as well as the broader systems they fit into.

@@ -1,0 +1,14 @@
+- One Assignment
+- One Exam
+- Presentation (group of 2)
+- Discussion
+
+1. bom bahadur + umesh paneru : dev ops tools
+2. shyam prasad + Basanta adhikari: introduction to cocomo model
+3. saujanya + abhisek khanal -  Junit and selenium
+4. raja ram + prabhakar : microservices architecture
+5. sushant + ashish timalsina: 4.6 applying OOAD and UML to a real-world application
+6. ajay singh + sandesh thapa magar: 8.1.5
+7. sanju shrestha + reshav raj : ML integration  in software
+8. Om prakash mahara: scrum and kanban
+
