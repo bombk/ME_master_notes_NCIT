@@ -1,0 +1,66 @@
+Slide 1: Title Slide
+Title: Integrating a Machine Learning-Driven Fraud Detection SystemAuthors: Lingfeng Guo, Runze Song, Jiang Wu, Zeqiu Xu, Fanyi ZhaoAffiliations: Trine University, California State University, University of Southern California, Carnegie Mellon University, Stevens Institute of TechnologyDate: 2024
+
+Slide 2: Introduction
+
+Financial fraud is a growing concern in digital transactions.
+
+Traditional fraud detection methods rely on statistical analysis, but they struggle with evolving fraud tactics.
+
+Machine learning (ML) offers adaptive fraud detection capabilities, enhancing accuracy and efficiency.
+
+This research explores ML-based fraud detection within a risk management framework.
+
+Slide 3: Problem Statement
+
+Fraud detection faces challenges due to imbalanced datasets and complex fraud patterns.
+
+Traditional methods like rule-based detection lack adaptability to new fraud techniques.
+
+Machine learning models, especially ensemble methods, improve fraud detection accuracy.
+
+The study focuses on optimizing Random Forest for fraud detection using credit card transaction data.
+
+Slide 4: Methodology
+
+Dataset: Kaggle credit card fraud dataset (284,807 transactions, 492 fraudulent cases).
+
+Model Selection: Comparison of Random Forest, Decision Trees, and XGBoost.
+
+Optimization: Hyperparameter tuning for improved accuracy (AUC score).
+
+Evaluation Metrics: Area Under the Curve (AUC), accuracy, and precision-recall analysis.
+
+Slide 5: Research Gap
+
+Traditional fraud detection methods lack scalability and adaptability to evolving fraud patterns.
+
+Many ML-based models struggle with class imbalance in fraud datasets.
+
+There is a need for optimized ensemble methods that enhance fraud detection in financial transactions.
+
+The study fills this gap by refining Random Forest performance in fraud detection.
+
+Slide 6: Conclusion
+
+Machine learning enhances fraud detection accuracy and efficiency.
+
+Random Forest outperforms traditional models in identifying fraudulent transactions.
+
+Future work will focus on improving real-time fraud detection and addressing dataset imbalance.
+
+The study contributes to the advancement of fraud prevention in financial systems.
+
+Slide 7: IEEE Citation
+
+Citation in IEEE format:"L. Guo, R. Song, J. Wu, Z. Xu, and F. Zhao, 'Integrating a Machine Learning-Driven Fraud Detection System Based on a Risk Management Framework,' Proc. 6th Int. Conf. Comput. Data Sci., 2024, DOI: 10.54254/2755-2721/87/20241541."
+
+Available at: DOI Link
+
+Slide 8: Thank You
+
+Questions?
+
+Contact Information
+
+Lingfeng Guo: glf9871@gmail.com

@@ -1,0 +1,37 @@
+Machine learning
+1 Data science
+  It is the extraction of knowlege from data by using different
+  techniques and algorithms
+2. Artificial Intelligence
+  It is a technique which enables machine to mimic human behaviour.
+
+3. Machine learning 
+  It is a subset of AI technique which uses statistical methods to enable machines to
+  improved with experience
+
+4. Deep Learnig 
+   It is a subset of ML which make the computation of multi-layer neural network feasible.
+
+
+1. supervise learning
+2. unsupervise learning
+3. reinforcement learning
+
+1. Supervise machine learnig
+  input and output is already defined.
+ some algorithms
+ a. Linear regression
+ b. Random Forest
+ c. Support Vector Machine
+
+2. Unsupervise learning
+ input is define output is not defined.This make clustering.
+ some algorithms
+ a. Apriori algorithm
+ b. K-Means Algorithm
+ c. Hierarchical Clustering
+
+3. Reinforcement Learning
+  it learn machine by feedbacks from users.
+
+  
